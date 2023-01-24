@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-To play a hand of Blackjack the following steps must be followed:  
+Features of Tic-Tac-Toe:  
 •	Created a 2D array.  
 •	Display the arrays in form of a board.  
 •	Created X and O as the symbols for 2 players  
