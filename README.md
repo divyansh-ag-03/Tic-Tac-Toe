@@ -1,5 +1,4 @@
 # Tic-Tac-Toe
-Our group has developed a simple game of Blackjack using different features and modules of Python.
 
 To play a hand of Blackjack the following steps must be followed:
 •	Created a 2D array.
